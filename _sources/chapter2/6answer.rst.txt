@@ -67,7 +67,7 @@
           shutdown()
       }
 
-   现在，panic 的时候输出的信息变成了这样：
+   现在，panic 的时候输入的信息变成了这样：
 
    .. code-block::
 
